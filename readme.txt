@@ -1,16 +1,3 @@
-Git
-不管你是多么
-多么
-复杂
-我都不会
-放弃你
-
-
-可是你竟然
-竟然
-这么
-
-
-2015
-5
-25
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+wtf
